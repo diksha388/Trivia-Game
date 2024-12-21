@@ -1,13 +1,16 @@
 
 **Trivia Game**
 
-#1# Project Description
+#1# Project Description=
 The Trivia Game is a blockchain-based decentralized application (dApp) that allows players to answer trivia questions and earn rewards in the form of cryptocurrency. The game is powered by a Solidity smart contract deployed on the Ethereum network. The contract owner can add trivia questions with multiple options and a reward for correct answers, while players can submit their answers and claim rewards for correct responses.
 
 #2# Contract Address
 0xD351260FEcfFe3b7c8578a07e081b8cf577D79d8
+![image](https://github.com/user-attachments/assets/21193e8c-f2d2-4e85-a9c1-0c8c02f318b6)
 
-#3# Project Vision
+
+
+#3# Project Vision=
 Our vision is to create an engaging and rewarding platform where users can test their knowledge, compete in trivia challenges, and earn cryptocurrency. By leveraging blockchain technology, we ensure fairness, transparency, and security for all participants.
 
 #4# Key Features
